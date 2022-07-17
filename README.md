@@ -11,7 +11,8 @@
 
 #### Prerequisites :
 - Android Studio
-- Basic knowledge about Firebase Authentication and Realtime database.
+- Basic knowledge about Kotlin
+-Retrofit
 ## Build and Run Application
 
 ###### Waether App requires Android sdk min 23 or newer version to run.
